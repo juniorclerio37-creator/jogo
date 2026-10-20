@@ -4,7 +4,9 @@ Versão 0.1 em Godot 4.6.3 / GDScript. Vertical offline de Nova Iguaçu, com có
 
 ## Jogar
 
-Android: instale `build/brasil-quest-debug.apk` em um dispositivo Android 7.0/API 24 ou superior. Autorize a instalação por esse gerenciador de arquivos quando o Android solicitar. É um APK de desenvolvimento assinado com chave de debug, sem publicação na Play Store. ARMv7, ARM64 e x86_64 incluídos. Instalação em aparelho físico ainda não testada.
+Android ARM64 (incluindo Motorola Edge 60 Fusion): [baixe o APK menor, cerca de 27 MB](https://raw.githubusercontent.com/juniorclerio37-creator/jogo/refs/heads/downloads/build/brasil-quest-arm64.apk). O preset `Android arm64` gera essa versão com o mesmo jogo e apenas as bibliotecas do processador ARM64.
+
+Android universal: instale `build/brasil-quest-debug.apk` em um dispositivo Android 7.0/API 24 ou superior. Autorize a instalação por esse gerenciador de arquivos quando o Android solicitar. É um APK de desenvolvimento assinado com chave de debug, sem publicação na Play Store. ARMv7, ARM64 e x86_64 incluídos. Instalação em aparelho físico ainda não testada.
 
 No computador: abra `project.godot` no Godot 4.6.3 e pressione F6/F5, ou execute `godot --path .`. Há também uma exportação Linux em `build/`; mantenha o executável e o `.pck` juntos.
 
