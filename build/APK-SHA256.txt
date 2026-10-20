@@ -1,1 +1,2 @@
 066cf6be7a62f32d485f93ca14306d5821dfc53006f01dbd817444bb8c6df763  build/brasil-quest-debug.apk
+539b05b5f6683aa1442405108d58238f90e61a5571fcfbaced1f2d4b426435d3  build/brasil-quest-arm64.apk
