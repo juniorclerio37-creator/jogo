@@ -1,0 +1,1 @@
+066cf6be7a62f32d485f93ca14306d5821dfc53006f01dbd817444bb8c6df763  build/brasil-quest-debug.apk
