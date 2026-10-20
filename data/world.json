@@ -1,0 +1,105 @@
+{
+  "cities": [
+    "Nova Iguaçu",
+    "Queimados",
+    "Japeri",
+    "Mesquita",
+    "Nilópolis",
+    "Belford Roxo",
+    "São João de Meriti",
+    "Duque de Caxias",
+    "Seropédica",
+    "Itaguaí",
+    "Paracambi",
+    "Magé",
+    "Guapimirim"
+  ],
+  "regions": [
+    {
+      "name": "Centro",
+      "x": 490,
+      "y": 590,
+      "description": "Coração comercial e ferroviário da cidade.",
+      "cost": 100
+    },
+    {
+      "name": "Bairro da Luz",
+      "x": 420,
+      "y": 680,
+      "description": "Vida urbana junto ao maciço de Gericinó-Mendanha.",
+      "cost": 135
+    },
+    {
+      "name": "Posse",
+      "x": 480,
+      "y": 450,
+      "description": "Região ao norte do Centro, ligada ao eixo da Via Light.",
+      "cost": 170
+    },
+    {
+      "name": "Comendador Soares",
+      "x": 310,
+      "y": 560,
+      "description": "Bairro do eixo ferroviário a oeste do Centro.",
+      "cost": 205
+    },
+    {
+      "name": "Cabuçu",
+      "x": 200,
+      "y": 640,
+      "description": "Paisagem urbana e rural a oeste do maciço.",
+      "cost": 240
+    },
+    {
+      "name": "Tinguá",
+      "x": 360,
+      "y": 200,
+      "description": "Paisagem serrana e Mata Atlântica ao norte.",
+      "cost": 275
+    },
+    {
+      "name": "Serra do Vulcão",
+      "x": 350,
+      "y": 790,
+      "description": "Maciço ao sul do Centro; o nome não indica vulcão ativo.",
+      "cost": 310
+    }
+  ],
+  "rewards": [
+    {
+      "name": "Moedas",
+      "weight": 45,
+      "coins": 120
+    },
+    {
+      "name": "Experiência",
+      "weight": 15,
+      "xp": 40,
+      "coins": 40
+    },
+    {
+      "name": "Giros extras",
+      "weight": 15,
+      "spins": 3,
+      "coins": 40
+    },
+    {
+      "name": "Baú surpresa",
+      "weight": 10,
+      "coins": 200,
+      "crystals": 1
+    },
+    {
+      "name": "Cristais",
+      "weight": 10,
+      "crystals": 3,
+      "coins": 60
+    },
+    {
+      "name": "Bônus viajante",
+      "weight": 5,
+      "coins": 350,
+      "spins": 2
+    }
+  ]
+}

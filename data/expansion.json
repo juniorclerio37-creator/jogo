@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "active_city": "nova_iguacu",
+  "expansions": [
+    {"id":"queimados","name":"Queimados","requires":"nova_iguacu","playable":false,"status":"Pesquisa e mapa pendentes"},
+    {"id":"japeri","name":"Japeri","requires":"queimados","playable":false,"status":"Pesquisa e mapa pendentes"}
+  ]
+}

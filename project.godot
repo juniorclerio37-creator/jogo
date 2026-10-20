@@ -1,0 +1,15 @@
+config_version=5
+[application]
+config/name="Brasil Quest — Passaporte das Cidades"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.6", "GL Compatibility")
+config/icon="res://assets/icon.svg"
+[display]
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/stretch/mode="canvas_items"
+window/handheld/orientation=1
+[rendering]
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.035,0.08,0.14,1)
+textures/vram_compression/import_etc2_astc=true
